@@ -59,7 +59,7 @@ width: 100%;
     top: 50%;
     width: 100%;
     text-align: center;
-    color: white;
+    color: black;
     position: absolute;
     transform: translateY(-50%);
 }
